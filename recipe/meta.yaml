@@ -1,5 +1,5 @@
 {% set name = "PySimpleGUIWx" %}
-{% set version = "0.16.0" %}
+{% set version = "0.17.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0]|lower }}/{{ name|lower }}/{{ name }}-{{ version }}.tar.gz
-  sha256: d9d6b9390f84798d1bf50c1f9aa8ff5a5c29390ba2da0f12fb5bfc00d3393241
+  sha256: a6010b1e3e72b67132e4d515591e16617d4dc357dd50efc9a7d36f0da719b4ed
 
 build:
   noarch: python
