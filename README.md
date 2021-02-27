@@ -5,11 +5,13 @@ Home: https://github.com/PySimpleGUI/PySimpleGUI
 
 Package license: LGPL-3.0
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pysimpleguiwx-feedstock/blob/master/LICENSE.txt)
 
 Summary: GUI SDK Launched in 2018 Actively developed and supported. Super-simple to create custom GUI's.
 
+Development: https://github.com/PySimpleGUI/PySimpleGUI
 
+Documentation: http://www.pysimplegui.org/
 
 Current build status
 ====================
